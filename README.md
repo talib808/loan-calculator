@@ -1,8 +1,8 @@
 # Loan Calculator Application
 
-`
-This project is a React-based Loan Calculator application that allows users to input loan details, calculate the estimated monthly repayment, and simulate submitting the details for a personalized quote.
-`
+
+- This project is a React-based Loan Calculator application that allows users to input loan details, calculate the estimated monthly repayment, and simulate submitting the details for a personalized quote.
+
 ## Project Overview
 > This application is built with React and includes the following features:
 
@@ -30,7 +30,7 @@ This project is a React-based Loan Calculator application that allows users to i
 
 ### nstall Dependencies:
 
--npm install
+- npm install
 
 ## Start the Development Server:
 
@@ -69,7 +69,7 @@ This project is a React-based Loan Calculator application that allows users to i
 
 ### Testing
 
--To run tests, use:
+- To run tests, use:
 
 - npm test
 - This will run the unit tests for the components using Jest and React Testing Library.
